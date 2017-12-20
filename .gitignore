@@ -3,3 +3,4 @@ processed/
 Report/
 *.py[cod]
 *$py.class
+.DS_Store
